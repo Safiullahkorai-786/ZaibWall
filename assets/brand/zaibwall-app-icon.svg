@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#050A12"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7F0DF"/><stop offset="1" stop-color="#FFFDF7"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E7B84E"/><stop offset="1" stop-color="#A96A08"/></linearGradient>
+ <linearGradient id="mountain" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#4A566A"/><stop offset="1" stop-color="#101827"/></linearGradient>
+</defs>
+<rect width="1024" height="1024" rx="220" fill="url(#bg)"/>
+<circle cx="755" cy="495" r="112" fill="#E7B84E"/>
+<path d="M260 690 L493 444 L591 552 L680 462 L850 690 Z" fill="url(#mountain)"/>
+<path d="M260 690 L493 444 L540 552 L461 534 L374 626 Z" fill="#263246"/>
+<path d="M493 444 L591 552 L548 530 L520 559 Z" fill="#70798A"/>
+<path d="M591 552 L680 462 L850 690 L701 590 L654 625 Z" fill="#1A2434"/>
+<path d="M172 700 C305 642 452 665 596 731 C702 780 801 829 907 817 C832 883 721 887 592 828 C452 763 320 710 172 752 C142 761 140 719 172 700 Z" fill="url(#gold)"/>
+<path d="M255 659 C244 663 232 651 238 636 L320 435 L674 234 C697 221 723 234 708 260 L447 501 L298 656 Z" fill="url(#face)"/>
+<path d="M320 435 L674 234 C697 221 723 234 708 260 L688 293 L365 482 Z" fill="#D29A2E" opacity=".92"/>
+<path d="M238 636 L320 435 L365 482 L298 656 Z" fill="#E0AD4A" opacity=".9"/>
+</svg>
